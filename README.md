@@ -6,7 +6,7 @@ constructor(options) {
 this.name = "Emir",
 this.age = 20,
 this.discord = "Arescim.",
-this.discordId = "852829781132967997"
+this.discordId = "919597262806601798"
   };
 }
 module.exports = Arescim;
@@ -15,21 +15,21 @@ module.exports = Arescim;
 <h2 align="center">
 
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=arescimlan&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
 <h2 align="center">
-<img src="https://komarev.com/ghpvc/?username=Arescim&color=dc143c"/>
+<img src="https://komarev.com/ghpvc/?username=arescimlan&color=dc143c"/>
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/852829781132967997" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/852829781132967997"></a>
+    <a href="https://discord.com/users/919597262806601798" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/919597262806601798"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/852829781132967997" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/919597262806601798" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a align="center" href="https://www.instagram.com/arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/pains" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
