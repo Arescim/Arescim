@@ -23,7 +23,7 @@ module.exports = Arescim;
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/919597262806601798" title="Discord Profile"><img src="[https://lanyard.cnrad.dev/api/919597262806601798](https://lanyard.cnrad.dev/api/919597262806601798)"></a>
+    <a href="https://discord.com/users/919597262806601798" title="Discord Profile"><img src=https://lanyard.cnrad.dev/api/919597262806601798"></a>
 </div>
 
 ## ⚡ Contact
