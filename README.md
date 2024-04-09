@@ -4,7 +4,7 @@
 class Arescim {
 constructor(options) {
 this.name = "Emir",
-this.age = 20,
+this.age = 22,
 this.discord = "Arescim.",
 this.discordId = "919597262806601798"
   };
