@@ -6,7 +6,7 @@ constructor(options) {
 this.name = "Emir",
 this.age = 22,
 this.discord = "Arescim.",
-this.discordId = "919597262806601798"
+this.discordId = "852829781132967997"
   };
 }
 module.exports = Arescim;
@@ -29,7 +29,7 @@ module.exports = Arescim;
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/919597262806601798" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/852829781132967997" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a align="center" href="https://www.instagram.com/arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/pains" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
