@@ -5,11 +5,11 @@ class Arescim {
 constructor(options) {
 this.name = "Emir",
 this.age = 22,
-this.discord = "Arescim.",
-this.discordId = "852829781132967997"
+this.discord = "walkerin.",
+this.discordId = "340462910398660619"
   };
 }
-module.exports = Arescim;
+module.exports = Walker;
 ```
 
 <h2 align="center">
