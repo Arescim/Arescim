@@ -1,7 +1,7 @@
 # ✨ Hi, I am Walkerinz
 
  ```js
-class Arescim {
+class Walker {
 constructor(options) {
 this.name = "Emir",
 this.age = 22,
