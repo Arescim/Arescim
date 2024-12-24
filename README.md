@@ -1,11 +1,11 @@
-# ✨ Hi, I am Arescim.
+# ✨ Hi, I am Walkerinz
 
  ```js
 class Arescim {
 constructor(options) {
 this.name = "Emir",
 this.age = 22,
-this.discord = "walkerin.",
+this.discord = "walkerinz",
 this.discordId = "340462910398660619"
   };
 }
