@@ -44,6 +44,7 @@ module.exports = Walker;
     <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
     <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+    <img alt="Lua" align="center" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </div>
 
 </br>
