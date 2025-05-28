@@ -1,12 +1,12 @@
-# ✨ Hi, I am Walkerinz
+# ✨ Hi, I am Arescim
 
  ```js
-class Walker {
+class Arescim {
 constructor(options) {
 this.name = "Emir",
 this.age = 22,
-this.discord = "walkerinz",
-this.discordId = "340462910398660619"
+this.discord = "Arescim",
+this.discordId = "504418206728060950"
   };
 }
 module.exports = Walker;
@@ -15,23 +15,23 @@ module.exports = Walker;
 <h2 align="center">
 
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=walkerinz&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
 <h2 align="center">
-<img src="https://komarev.com/ghpvc/?username=walkerinz&color=dc143c"/>
+<img src="https://komarev.com/ghpvc/?username=Arescim&color=dc143c"/>
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/340462910398660619" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/340462910398660619"></a>
+    <a href="https://discord.com/users/504418206728060950" title="Discord Profile"><img src="https://lanyard.cnrad.dev/api/504418206728060950"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/340462910398660619" target="_blank"><img src="https://shields.io/badge/walkerinz-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a align="center" href="https://www.instagram.com/walkerinz" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/walkerinz" target="_blank"><img src="https://shields.io/badge/walkerinz-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.com/users/504418206728060950" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a align="center" href="https://www.instagram.com/Arescim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://github.com/Arescim" target="_blank"><img src="https://shields.io/badge/Arescim-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://discord.gg/whitevrp" target="_blank"><img src="https://shields.io/badge/Discord Sunucum-111111.svg?&style=for-the-badge"></a>
     </div>
 
@@ -51,5 +51,5 @@ module.exports = Walker;
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=walkerinz&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkerinz&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
