@@ -23,4 +23,4 @@ module.exports = Arescim;
 
 </br>
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stats" alt="Typing SVG" /> </h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&theme=midnight-purple&hide_border=true" height="150" /> </p> 
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stats" alt="Typing SVG" /> </h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&theme=midnight-purple&hide_border=true" height="150" /> </p> 
