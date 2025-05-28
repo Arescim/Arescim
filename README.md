@@ -10,7 +10,7 @@ class Arescim {
   }
 }
 module.exports = Arescim;
-
+```
 <p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=Arescim&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arescim&color=dc143c" alt="Profile Views Counter" /> </p> <p align="center"> <a href="https://discord.com/users/504418206728060950" title="Discord Profile"> <img src="https://lanyard.cnrad.dev/api/504418206728060950" alt="Discord Status"> </a> </p>
 
 ## ⚡ Contact
@@ -23,4 +23,4 @@ module.exports = Arescim;
 
 </br>
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stats" alt="Typing SVG" /> </h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&theme=midnight-purple&hide_border=true" height="150" /> </p> ```
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stats" alt="Typing SVG" /> </h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arescim&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arescim&layout=compact&theme=midnight-purple&hide_border=true" height="150" /> </p> 
