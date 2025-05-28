@@ -1,7 +1,7 @@
 # ✨ Hi, I am Arescim
 
  
-js
+```js
 class Arescim {
 constructor(options) {
 this.name = "Emir",
@@ -10,8 +10,8 @@ this.discord = "Arescim",
 this.discordId = "504418206728060950"
   };
 }
-module.exports = Walker;
-
+module.exports = Arescim;
+```
 
 <h2 align="center">
 
